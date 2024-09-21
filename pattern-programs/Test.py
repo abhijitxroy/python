@@ -1,12 +1,13 @@
 n = int(input("Provide an integer input: "))
 # n = 4
 
-for i in range(n): # i = 0 1 2 3
-    print((' '*i) + (('* ')*(n-i)))
+for i in range(n):
+    for j in range(n-i):
+        print(' '* (n-i) + '* '* (j+1))
+    print()
 print()
 
 
-# * * * *
-#  * * *
-#   * *
 #    *
+#   * *
+# *  *  *

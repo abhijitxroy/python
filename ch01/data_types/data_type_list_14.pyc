@@ -1,0 +1,545 @@
+print('''
+int
+float
+complex
+str
+bool
+
+list
+touple
+set
+frozenset
+dict
+
+bytes
+bytearray
+range
+None''')
+
+print('''
+In python ➜  coding-space ls -la
+total 16
+drwxr-xr-x@   5 abroy  staff   160 Aug 24 21:48 .
+drwxr-x---+ 102 abroy  staff  3264 Sep 12 08:44 ..
+-rw-r--r--@   1 abroy  staff  6148 Aug 24 21:48 .DS_Store
+drwxr-xr-x@   3 abroy  staff    96 Aug 19 18:16 python
+drwxr-xr-x@   3 abroy  staff    96 Aug  2 21:46 typescript
+➜  coding-space cd python
+➜  python ls -la
+total 0
+drwxr-xr-x@ 3 abroy  staff   96 Aug 19 18:16 .
+drwxr-xr-x@ 5 abroy  staff  160 Aug 24 21:48 ..
+drwxr-xr-x@ 5 abroy  staff  160 Aug 19 18:20 python
+➜  python cd python
+➜  python git:(abhijitxroy/pattern-programs) ✗ ls -la
+total 8
+drwxr-xr-x@  5 abroy  staff  160 Aug 19 18:20 .
+drwxr-xr-x@  3 abroy  staff   96 Aug 19 18:16 ..
+drwxr-xr-x@ 13 abroy  staff  416 Aug 20 10:05 .git
+-rw-r--r--@  1 abroy  staff    8 Aug 19 18:17 README.md
+drwxr-xr-x@ 13 abroy  staff  416 Aug 20 09:37 pattern-programs
+➜  python git:(abhijitxroy/pattern-programs) ✗ mkdir -p ch01/identifiers
+➜  python git:(abhijitxroy/pattern-programs) ✗ cd ch01/identifiers
+➜  identifiers git:(abhijitxroy/pattern-programs) ✗ clear
+'''
+int
+float
+complex
+str
+bool
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+-- INSERT --
+'''
+int
+float
+complex
+str
+bool
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+-- INSERT --
+print('''
+import keyword
+➜  identifiers git:(abhijitxroy/pattern-programs) ✗ touch keyword_list.py
+➜  identifiers git:(abhijitxroy/pattern-programs) ✗ vim keyword_list.py
+➜  identifiers git:(abhijitxroy/pattern-programs) ✗ python3 keyword_list.py
+['False', 'None', 'True', 'and', 'as', 'assert', 'async', 'await', 'break', 'class', 'continue', 'def', 'del', 'elif', 'else', 'except', 'finally', 'for', 'from', 'global', 'if', 'import', 'in', 'is', 'lambda', 'nonlocal', 'not', 'or', 'pass', 'raise', 'return', 'try', 'while', 'with', 'yield']
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+-- INSERT --
+print('''
+int
+float
+complex
+str
+bool
+
+list
+touple
+set
+frozenset
+dict
+
+bytes
+bytearray
+range
+None''')
+
+print()
+~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               -- INSERT --
+print('''
+int
+float
+complex
+str
+bool
+
+list
+touple
+set
+frozenset
+dict
+
+bytes
+bytearray
+range
+None''')
+
+print()
+~
+~
+~
+~
+~
+-- INSERT --
+print('''
+int
+float
+complex
+str
+bool
+
+list
+touple
+set
+frozenset
+dict
+
+bytes
+bytearray
+range
+None''')
+
+print()
+~
+~
+~
+~
+~
+-- INSERT --
+print('''
+int
+float
+complex
+str
+bool
+
+list
+touple
+set
+frozenset
+dict
+
+bytes
+bytearray
+range
+None''')
+
+print('''
+In python everything is treated as object
+
+''' )
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+-- INSERT --
+print('''
+int
+float
+complex
+str
+bool
+
+list
+touple
+set
+frozenset
+dict
+
+bytes
+bytearray
+range
+None''')
+
+print('''
+In python everything is treated as object
+
+''' )
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+-- INSERT --
+print('''
+int
+float
+complex
+str
+bool
+
+list
+touple
+set
+frozenset
+dict
+
+bytes
+bytearray
+range
+None''')
+
+print('''
+In python e➜  coding-space ls -la
+total 16
+drwxr-xr-x@   5 abroy  staff   160 Aug 24 21:48 .
+drwxr-x---+ 102 abroy  staff  3264 Sep 12 08:44 ..
+-rw-r--r--@   1 abroy  staff  6148 Aug 24 21:48 .DS_Store
+drwxr-xr-x@   3 abroy  staff    96 Aug 19 18:16 python
+drwxr-xr-x@   3 abroy  staff    96 Aug  2 21:46 typescript
+➜  coding-space cd python
+➜  python ls -la
+total 0
+drwxr-xr-x@ 3 abroy  staff   96 Aug 19 18:16 .
+drwxr-xr-x@ 5 abroy  staff  160 Aug 24 21:48 ..
+drwxr-xr-x@ 5 abroy  staff  160 Aug 19 18:20 python
+➜  python cd python
+➜  python git:(abhijitxroy/pattern-programs) ✗ ls -la
+total 8
+drwxr-xr-x@  5 abroy  staff  160 Aug 19 18:20 .
+drwxr-xr-x@  3 abroy  staff   96 Aug 19 18:16 ..
+drwxr-xr-x@ 13 abroy  staff  416 Aug 20 10:05 .git
+-rw-r--r--@  1 abroy  staff    8 Aug 19 18:17 README.md
+drwxr-xr-x@ 13 abroy  staff  416 Aug 20 09:37 pattern-programs
+➜  python git:(abhijitxroy/pattern-programs) ✗ mkdir -p ch01/identifiers
+➜  python git:(abhijitxroy/pattern-programs) ✗ cd ch01/identifiers
+➜  identifiers git:(abhijitxroy/pattern-programs) ✗ clear
+'''
+int
+float
+complex
+str
+bool
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+-- INSERT --
+'''
+int
+float
+complex
+str
+bool
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+-- INSERT --
+print('''
+import keyword
+➜  identifiers git:(abhijitxroy/pattern-programs) ✗ touch keyword_list.py
+➜  identifiers git:(abhijitxroy/pattern-programs) ✗ vim keyword_list.py
+➜  identifiers git:(abhijitxroy/pattern-programs) ✗ python3 keyword_list.py
+['False', 'None', 'True', 'and', 'as', 'assert', 'async', 'await', 'break', 'class', 'continue', 'def', 'del', 'elif', 'else', 'except', 'finally', 'for', 'from', 'global', 'if', 'import', 'in', 'is', 'lambda', 'nonlocal', 'not', 'or', 'pass', 'raise', 'return', 'try', 'while', 'with', 'yield']
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+-- INSERT --
+print('''
+int
+float
+complex
+str
+bool
+
+list
+touple
+set
+frozenset
+dict
+
+bytes
+bytearray
+range
+None''')
+
+print()
+~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               -- INSERT --
+print('''
+int
+float
+complex
+str
+bool
+
+list
+touple
+set
+frozenset
+dict
+
+bytes
+bytearray
+range
+None''')
+
+print()
+~
+~
+~
+~
+~
+-- INSERT --
+print('''
+int
+float
+complex
+str
+bool
+
+list
+touple
+set
+frozenset
+dict
+
+bytes
+bytearray
+range
+None''')
+
+print()
+~
+~
+~
+~
+~
+-- INSERT --
+print('''
+int
+float
+complex
+str
+bool
+
+list
+touple
+set
+frozenset
+dict
+
+bytes
+bytearray
+range
+None''')
+
+print('''
+In python everything is treated as object
+
+''' )
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+-- INSERT --
+print('''
+int
+float
+complex
+str
+bool
+
+list
+touple
+set
+frozenset
+dict
+
+bytes
+bytearray
+range
+None''')
+
+print('''
+In python everything is treated as object
+
+''' )
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+-- INSERT --
+print('''
+int
+float
+complex
+str
+bool
+
+list
+touple
+set
+frozenset
+dict
+
+bytes
+bytearray
+range
+None''')
+
+print('''
+In python everything is treated as object
+''' )
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+-- INSERT --verything is treated as object
+''' )
+~
+~
+~
+:
