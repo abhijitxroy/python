@@ -12,12 +12,12 @@ if play.lower() == 'y':
     if max_range.isdigit():
         max_range = int(max_range)
     random_number = random.randint(0, max_range)
-    print("Random Number: ", random_number)
+    # print("Random Number: ", random_number)
 
     while True:
         guesses += 1
         user_guess = input("Make a guess: ")
-        print("User Guess: ", user_guess, " & Random Number: ", random_number)
+        # print("User Guess: ", user_guess, " & Random Number: ", random_number)
         if user_guess.isdigit():
             user_guess = int(user_guess)
             if user_guess <= 0 :
